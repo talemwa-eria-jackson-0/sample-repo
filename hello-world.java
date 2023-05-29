@@ -7,7 +7,6 @@ class HelloWorld {
         System.out.println(x*y);
     }
 
-//allow me to add this comment and test my git knowledge
-//and this also hope you get it
+
 }
 
